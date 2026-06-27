@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ewiges-versprechen/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Ewiges Versprechen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ewiges-versprechen/) |
+| **Get License** | [Music Rights & Licensing for Ewiges Versprechen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ewiges-versprechen/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `6dd4d60ecc648ff3becbfffbd68a995c6abdbbdcc7c5f7cabfbce7975b47b8b4` |
 | **Timestamp** | June 28, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
