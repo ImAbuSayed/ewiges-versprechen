@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ewiges-versprechen/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Ewiges Versprechen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ewiges-versprechen/) |
+| **Get License** | [Secure Licensing Rights for Ewiges Versprechen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ewiges-versprechen/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ey, die Stadt ist hellwach, schwarzer Benz, wir fliegen low
+> Dein Blick zieht mich an, Baby, let’s get on the show
+> Die 808 drückt tief, doch mein Herzschlag, der ist laut
+> Du bist das einzige Girl, dem ein Bad Boy jetzt vertraut
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
